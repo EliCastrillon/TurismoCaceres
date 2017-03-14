@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TurismoCaceres</string>
+    <string name="title_activity_perfil">PerfilActivity</string>
+    <string name="Usarname">usarname</string>
+    <string name="Password">password</string>
+    <string name="Iniciar">iniciar</string>
+    <string name="Registrarse">registrarse</string>
+    <string name="Repetir_Contraseña">repetir_contraseña</string>
+    <string name="Correo_Electronico">correo_electronico</string>
+    <string name="corre">Correo Electronico</string>
+    <string name="correo">Correo Electronico</string>
+    <string name="username">Nombre de Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="registrase">Registrase</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="repassword">Repetir Password</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="Contraseña">Repetir Contraseña</string>
+    <string name="miperfil">Mi Perfil</string>
+    <string name="cerrarS">Cerrar Sesion</string>
+    <string name="cerrars">Cerrar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="parque">Parque Uno</string>
+    <string name="par">Parque dos</string>
+    <string name="mPrincipal">Principal</string>
+    <string name="mCerrarSesion">Cerrar Sesion</string>
+</resources>
