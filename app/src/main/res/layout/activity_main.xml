@@ -8,13 +8,64 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bcaceres"
     android:orientation="vertical"
     tools:context="com.elicastrillon.turismocaceres.MainActivity">
 
     <TextView
-        android:layout_width="match_parent"
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="Símbolos:"
+        android:textColor="@color/black" />
 
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Bandera de Cáceres"
+            android:textColor="@color/black" />
+
+        <ImageView
+            android:layout_width="146dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/bcaceres" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="Escudo de Cáceres"
+            android:textColor="@color/black"/>
+        <ImageView
+            android:layout_width="148dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/escudo2"/>
+
+    </LinearLayout>
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/texMunicipio"
+            android:textColor="@color/black"
+            />
+    </ScrollView>
 </LinearLayout>

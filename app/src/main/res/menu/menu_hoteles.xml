@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.elicastrillon.turismocaceres.Hoteles">
+    <item
+        android:id="@+id/mPrincipalH"
+        android:orderInCategory="100"
+        android:title="@string/principalH"
+        app:showAsAction="never" />
+</menu>

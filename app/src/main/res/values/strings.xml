@@ -27,4 +27,27 @@
     <string name="par">Parque dos</string>
     <string name="mPrincipal">Principal</string>
     <string name="mCerrarSesion">Cerrar Sesion</string>
+    <string name="text">Extensión total:1953 Km2  Extensión área urbana:1 Km2  Extensión área rural:1952 Km2  Altitud de la cabecera municipal (metros sobre el nivel del mar): 150 Mts  Temperatura media: 28º a 35º C  Distancia de referencia: 230 Km de Medellín</string>
+    <string name="t">xeee</string>
+    <string name="mhoteles">Hoteles</string>
+    <string name="mbares">Bares</string>
+    <string name="mrestaurante">Restaurantes</string>
+    <string name="title_activity_restaurantes">Restaurantes</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="brisasCauca">Restaurante Brisas Del Cauca</string>
+    <string name="sanFelipe">Restaurante San Felipe</string>
+    <string name="parrila">Restaurante La Parrilla</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_bares">Bares</string>
+    <string name="alfonsoB">Alfonso Bar</string>
+    <string name="baraca">Bar Baraca</string>
+    <string name="subaC">Bar Suba Cauca</string>
+    <string name="title_activity_hoteles">Hoteles</string>
+    <string name="beijinH">Hotel Beijin</string>
+    <string name="mesonG">Meson del Gitano</string>
+    <string name="frutas">Hotel Frutas Lagos</string>
+    <string name="principal">Principal</string>
+    <string name="rprincipal">Principal</string>
+    <string name="principalH">Principal</string>
 </resources>
